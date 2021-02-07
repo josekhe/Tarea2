@@ -1,0 +1,328 @@
+
+.e1
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ left: 15%;
+ top: 85%;
+ border-radius: 25px;
+}
+
+.e2
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ left: 40%;
+ top: 85%;
+ border-radius: 25px;
+}
+
+.e3
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ left: 65%;
+ top: 85%;
+ border-radius: 25px;
+}
+
+
+
+.t1
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ left: 25%;
+ top: 95%;
+ border-radius: 25px;
+}
+
+.t2
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ left: 47%;
+ top: 95%;
+ border-radius: 25px;
+}
+
+.t3
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ left: 70%;
+ top: 95%;
+ border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dec
+{
+ 
+ position: absolute;
+ height: 30%;
+ width: 70%;
+ background:  #BEFF5A;
+ left: 17%;
+ top: 45%;
+ border-radius: 25px;
+
+
+}
+
+.titulo
+{
+
+ position: absolute;
+ top: 10%;
+ left: 30%;
+
+}
+
+.carp1
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ top: 120%;
+ border-radius: 25px;
+}
+
+.Suma
+{
+
+  position: absolute;
+ height: 50%;
+ width: 30%;
+ background:  #BEFF5A;
+ left: 15%;
+ top: 170%;
+ border-radius: 25px;
+
+}
+
+.vid1
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ left: 50%;
+ top: 150%;
+ border-radius: 25px;
+}
+
+.aud1
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ left: 50%;
+ top: 230%;
+}
+
+.f1
+{
+ position: absolute;
+ height: 15%;
+ width: 30%;
+ background:  white;
+ left: 15%;
+ top: 230%;
+ border-radius: 25px;
+
+}
+
+.chn1
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ background:  white;
+ left: 35%;
+ top: 175%;
+ 
+}
+
+.chn2
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ background:  white;
+ left: 18%;
+ top: 175%;
+ 
+}
+
+
+
+
+
+
+
+.carp2
+{
+
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ top: 260%;
+ border-radius: 25px;
+
+}
+
+.Contar
+{
+ position: absolute;
+ height: 50%;
+ width: 30%;
+ background:  #BEFF5A;
+ left: 15%;
+ top: 310%;
+ border-radius: 25px;
+
+}
+
+.vid2
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ left: 50%;
+ top: 290%;
+ border-radius: 25px;
+}
+
+.aud2
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ left: 65%;
+ top: 365%;
+}
+
+.f2
+{
+ position: absolute;
+ height: 15%;
+ width: 40%;
+ background:  white;
+ left: 15%;
+ top: 370%;
+ border-radius: 25px;
+
+}
+
+.cinta
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ background:  white;
+ left: 13%;
+ top: 345%;
+ 
+}
+
+.cinta2
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ background:  white;
+ left: 38%;
+ top: 305%;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+.carp3
+{
+
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ top: 405%;
+ border-radius: 25px;
+
+}
+
+.Contarconjunto
+{
+ position: absolute;
+ height: 50%;
+ width: 30%;
+ background:  #BEFF5A;
+ left: 15%;
+ top: 455%;
+ border-radius: 25px;
+
+}
+
+.vid3
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ left: 50%;
+ top: 440%;
+ border-radius: 25px;
+}
+
+.aud3
+{
+ position: absolute;
+ height: 1%;
+ width: 1%;
+ left: 65%;
+ top: 535%;
+}
+
+.f3
+{
+ position: absolute;
+ height: 15%;
+ width: 70%;
+ background:  white;
+ left: 15%;
+ top: 515%;
+ border-radius: 25px;
+}
+
+.clip
+{
+ position: absolute;
+ height: 0%;
+ width: 0%;
+ background:  white;
+ left: 26%;
+ top: 438%;
+ 
+}

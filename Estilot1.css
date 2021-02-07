@@ -1,0 +1,57 @@
+
+
+.flecha
+{
+    position: absolute;
+    height: 0%;
+    width: 0%;
+    left: 5%;
+    top: 10%;
+    border-radius: 25px;
+}
+
+
+
+.entrada
+{
+ 	position: absolute;
+	height: 25%;
+    width: 90%;
+    background:linear-gradient(50deg,  orange, lightgreen, lightblue);
+    left: 5%;
+    top: 15%;
+    border-radius: 25px;
+}
+
+.excel
+{
+    position: absolute;
+	height: 35%;
+    width: 17%;
+    background: #C3FB8B;
+    left: 40%;
+    top: 50%;
+    border-radius: 25px;
+}
+
+
+.boli
+{
+    position: absolute;
+ 	height: 35%;
+    width: 17%;
+     left: 75%;
+    top: 40%;
+    border-radius: 25px
+
+}
+
+.calcu
+{
+    position: absolute;
+    height: 0%;
+    width: 0%;
+    left: 2%;
+    top: 45%;
+    border-radius: 25px
+}
